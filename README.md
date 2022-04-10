@@ -1,15 +1,14 @@
-
 # BRender-GColab
 **A tool for rendering *.blend* files with Google Colab.**
 ## Installation
 
-Donwload this repo and unpack on your drive.
+Donwload this repo and unpack on your drive inside a *BRrender-GColab* folder.
 
 Be sure to follow the following file tree:
 
 ```bash
   your unit
-  └─BRrender-Colab
+  └─BRrender-GColab
     ├─Results
     ├─Projects
     ├─More
@@ -21,6 +20,15 @@ Open Script.ipynb on [Google Colab](https://colab.research.google.com/).
 Drop your .blend file in Projects folder.
 
 Execute Colab notebook.
+
+## Example
+
+![BlenderEditor](https://i.imgur.com/bI4BAfR.png)
+
+After Render
+
+![Render](https://i.imgur.com/KYX5nRE.png)
+
 ## Contributing
 
 Contributions are always welcome!
